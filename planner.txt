@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 weekly planner v1 Final
+=======
+weekly planner v2
+>>>>>>> v2-update
